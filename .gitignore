@@ -1,4 +1,20 @@
-.ipynb_checkpoints
-.DS_Store
-*.pyc
+# Virtual Environments
+env/
+venv/
+
+# Python compiled files
 __pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints
+
+# Mac OS system files
+.DS_Store
+
+# Logs and data files
+*.log
+*.csv
+data/
+
